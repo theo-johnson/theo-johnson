@@ -7,11 +7,6 @@ Junior Full-Stack Software developer currently looking for work.<br>Portfolio re
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-johnson-dev) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Carces&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Carces&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carces&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
